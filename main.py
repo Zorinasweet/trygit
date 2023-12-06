@@ -1,3 +1,3 @@
-a = 54646
-b = 546
-print(a + b)
+B = 546
+print(B)
+print(B, 'is the value of B')
